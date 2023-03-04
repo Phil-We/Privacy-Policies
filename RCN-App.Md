@@ -1,4 +1,5 @@
-SUMMARY OF KEY POINTS
+# Privacy Policy
+## SUMMARY OF KEY POINTS
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click here to go directly to our table of contents.
 What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Phil Weckenmann and the Services, the choices you make, and the products and features you use. Click here to learn more.
 Do we process any sensitive personal information? We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Click here to learn more.
@@ -11,7 +12,8 @@ Click here to learn more.
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click here to learn more.
 How do you exercise your rights? The easiest way to exercise your rights is by filling out our data subject request form available here, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 Want to learn more about what Phil Weckenmann does with any information we collect? Click here to review the notice in full.
-TABLE OF CONTENTS
+
+### TABLE OF CONTENTS
 1. WHAT INFORMATION DO WE COLLECT?
 2. HOW DO WE PROCESS YOUR INFORMATION?
 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
@@ -28,11 +30,17 @@ Personal information you disclose to us
 In Short: We collect personal information that you provide to us.
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
 Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
-names
-email addresses passwords weight
-birthday
-gender
-Sensitive Information. When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
+- names
+- email 
+- addresses 
+- passwords 
+- weight
+- birthday
+- gender
+
+
+## Sensitive Information
+When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
 health data
 genetic data
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
